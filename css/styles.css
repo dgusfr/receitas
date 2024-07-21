@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&family=Montserrat&display=swap');
+@import './navbar.css';
+@import './page.css';
+@import './footer.css';
+@import './header.css';
+@import './recipes.css';
+@import './error.css';
+@import './about.css';
+@import './contact.css';
+@import './tags.css';
+@import './recipe-template.css';
+
+
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -94,13 +107,6 @@ select {
   text-transform: none;
 }
 
-button,
-[type='button'],
-[type='reset'],
-[type='submit'] {
-  -webkit-appearance: button;
-}
-
 button::-moz-focus-inner,
 [type='button']::-moz-focus-inner,
 [type='reset']::-moz-focus-inner,
@@ -146,11 +152,6 @@ textarea {
 [type='number']::-webkit-inner-spin-button,
 [type='number']::-webkit-outer-spin-button {
   height: auto;
-}
-
-[type='search'] {
-  -webkit-appearance: textfield;
-  outline-offset: -2px;
 }
 
 [type='search']::-webkit-search-decoration {
@@ -426,15 +427,4 @@ ul {
   margin-top: -1rem;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&family=Montserrat&display=swap');
-@import './navbar.css';
-@import './page.css';
-@import './footer.css';
-@import './header.css';
-@import './recipes.css';
-@import './error.css';
-@import './about.css';
-@import './contact.css';
-@import './tags.css';
-@import './recipe-template.css';
 
