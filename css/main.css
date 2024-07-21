@@ -267,7 +267,6 @@ Navbar
 }
 .nav-center {
   width: 90vw;
-  /* max-width: var(--max-width); */
 }
 .nav-header {
   height: 6rem;
@@ -276,7 +275,7 @@ Navbar
   align-items: center;
 }
 .nav-header img {
-  width: 200px;
+  width: 400px; 
 }
 .nav-logo {
   display: flex;
