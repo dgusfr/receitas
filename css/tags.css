@@ -3,6 +3,7 @@
   gap: 2rem;
   padding-bottom: 3rem;
 }
+
 .tag {
   background: var(--grey-500);
   border-radius: var(--borderRadius);
@@ -11,22 +12,27 @@
   transition: var(--transition);
   padding: 0.75rem 0;
 }
+
 .tag:hover {
   background: var(--primary-500);
 }
+
 .tag h5,
 .tag p {
   margin-bottom: 0;
 }
+
 .tag h5 {
   font-weight: 600;
 }
-@media screen and (min-width: 576px) {
+
+/* Responsivo */
+@media screen and (min-width: 400px) {
   .tags-wrapper {
     grid-template-columns: 1fr 1fr;
   }
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 800px) {
   .tags-wrapper {
     grid-template-columns: 1fr 1fr 1fr;
   }
