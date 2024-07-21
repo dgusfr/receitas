@@ -58,39 +58,3 @@
   padding: 0.15rem 1rem;
 }
 
-@media screen and (min-width: 992px) {
-  .navbar {
-    height: 6rem;
-  }
-  .nav-center {
-    display: flex;
-    align-items: center;
-  }
-  .nav-header {
-    padding: 0;
-    margin-right: 2rem;
-    height: auto;
-  }
-  .nav-header img {
-    max-width: 20rem;
-  }
-  .nav-btn {
-    display: none;
-  }
-  .nav-links {
-    height: auto !important;
-    flex-direction: row;
-    align-items: center;
-    width: 100%;
-  }
-  .nav-link {
-    padding: 0;
-    border-top: none;
-    margin-right: 1rem;
-    font-size: 1rem;
-  }
-  .contact-link {
-    margin-right: 0;
-    margin-left: auto;
-  }
-}
