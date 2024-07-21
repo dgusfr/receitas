@@ -267,7 +267,7 @@ Navbar
 }
 .nav-center {
   width: 90vw;
-  max-width: var(--max-width);
+  /* max-width: var(--max-width); */
 }
 .nav-header {
   height: 6rem;
