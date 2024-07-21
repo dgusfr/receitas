@@ -275,7 +275,9 @@ Navbar
   align-items: center;
 }
 .nav-header img {
-  width: 400px; 
+  width: 100%;
+  height: auto;
+  max-width: 300px;
 }
 .nav-logo {
   display: flex;
@@ -331,7 +333,9 @@ Navbar
     margin-right: 2rem;
     height: auto;
   }
-
+  .nav-header img {
+    max-width: 20rem; 
+  }
   .nav-btn {
     display: none;
   }
@@ -352,6 +356,7 @@ Navbar
     margin-left: auto;
   }
 }
+
 /*
 =============== 
 Page
