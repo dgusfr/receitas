@@ -1,6 +1,6 @@
 .page {
   width: 90vw;
-  max-width: var(--max-width);
+  max-width: 1200px;
   margin: 0 auto;
 }
 .page {

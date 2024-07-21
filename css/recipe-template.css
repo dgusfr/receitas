@@ -9,7 +9,7 @@
 }
 
 .recipe-info p {
-  color: var(--grey-600);
+  color: var(--dark-grey);
 }
 
 .recipe-icons {
@@ -22,7 +22,7 @@
 
 .recipe-icons i {
   font-size: 1.5rem;
-  color: var(--primary-500);
+  color: var(--dark-orange);
 }
 
 .recipe-icons h5,
@@ -32,7 +32,7 @@
 }
 
 .recipe-icons p {
-  color: var(--grey-600);
+  color: var(--dark-grey);
 }
 
 .recipe-tags {
@@ -44,7 +44,7 @@
 }
 
 .recipe-tags a {
-  background: var(--primary-500);
+  background: var(--dark-orange);
   border-radius: var(--borderRadius);
   color: var(--white);
   padding: 0.05rem 0.5rem;

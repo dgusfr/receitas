@@ -5,7 +5,7 @@
 }
 
 .tag {
-  background: var(--grey-500);
+  background: var(--dark-grey);
   border-radius: var(--borderRadius);
   text-align: center;
   color: var(--white);
@@ -14,7 +14,7 @@
 }
 
 .tag:hover {
-  background: var(--primary-500);
+  background: var(--dark-orange);
 }
 
 .tag h5,
