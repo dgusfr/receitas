@@ -9,7 +9,7 @@
 }
 
 .recipe-info p {
-  color: var(--dark-grey);
+  color: var(--dark-gray);
 }
 
 .recipe-icons {
@@ -32,7 +32,7 @@
 }
 
 .recipe-icons p {
-  color: var(--dark-grey);
+  color: var(--dark-gray);
 }
 
 .recipe-tags {

@@ -5,7 +5,7 @@
 }
 
 .tag {
-  background: var(--dark-grey);
+  background: var(--dark-gray);
   border-radius: var(--borderRadius);
   text-align: center;
   color: var(--white);
